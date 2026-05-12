@@ -2,7 +2,7 @@
 
 Pediatric resident. Building AI tools for clinicians and students at night.
 
-I run into problems at the hospital and write code to fix them —
+I run into problems at the hospital and write code to fix them, like 
 exam prep, offline clinical references, evidence search, syndrome lookup.
 Most of my tools are built for low-resource settings where internet is unreliable
 and good references are expensive.
